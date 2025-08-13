@@ -1,4 +1,3 @@
-<!-- Header with subtle GIF -->
 <h1 align="center">
   Hi, I'm Navid Sharifioun <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h1>
@@ -42,9 +41,3 @@ For me, development isn’t just about writing code — it’s about creating so
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navid-sharifioun)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharifioun-N)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navidsharifioun@gmail.com)
-
----
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>
